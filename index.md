@@ -6,4 +6,9 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 ## header 2
 
+```c++
+// this is comment
+delete this;
+```
+
 ### header 3
